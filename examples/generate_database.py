@@ -13,5 +13,5 @@ import tetra3
 t3 = tetra3.Tetra3(load_database=None)
 
 # Generate and save database.
-t3.generate_database(save_as='t3_fov20-30_mag8', max_fov=30, min_fov=20,
+t3.generate_database(save_as='t3_fov20-50_mag8', max_fov=50, min_fov=20,
                      star_max_magnitude=8, star_catalog='hip_main')

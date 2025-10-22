@@ -1,0 +1,57 @@
+>>> Results for: 2019-07-29T204726_Alt40_Azi-135_Try1.tiff <<<
+
+Variable                     Result
+-------------------  --------------
+RA                    230.667
+Dec                    11.0342
+Roll                  332.28
+FOV                    11.4262
+distortion              0.000403769
+RMSE                    6.46063
+Matches                11
+Prob                    5.27234e-14
+epoch_equinox        2000
+epoch_proper_motion  2023
+T_solve               312.26
+T_extract              28.7029
+
+============================================================
+
+>>> Results for: 2019-07-29T204726_Alt60_Azi-135_Try1.tiff <<<
+
+Variable                     Result
+-------------------  --------------
+RA                    240.464
+Dec                    28.9406
+Roll                  329.049
+FOV                    11.4216
+distortion              0.000984532
+RMSE                    5.02457
+Matches                16
+Prob                    7.88642e-25
+epoch_equinox        2000
+epoch_proper_motion  2023
+T_solve                31.3094
+T_extract              31.9735
+
+============================================================
+
+>>> Results for: sky_image.png <<<
+
+Variable                     Result
+-------------------  --------------
+RA                    219.879
+Dec                   -60.8018
+Roll                    0.0372758
+FOV                    39.9109
+distortion              0.00452145
+RMSE                  130.054
+Matches                 9
+Prob                    4.86252e-09
+epoch_equinox        2000
+epoch_proper_motion  2023
+T_solve                26.348
+T_extract              38.25
+
+============================================================
+
